@@ -4,7 +4,9 @@
 
 [Visita ProductTally](https://producttally.com/es/) · [Servicio de reseñas y precios](https://producttally.com/es/pricing/) · [Contacta con ProductTally Support](mailto:support@producttally.com)
 
-[English](https://github.com/ProductTally) · [简体中文](https://github.com/ProductTally/ProductTally/blob/main/README.zh.md) · **Español** · [日本語](https://github.com/ProductTally/ProductTally/blob/main/README.ja.md)
+[English](https://github.com/ProductTally) · **Español** · [日本語](https://github.com/ProductTally/ProductTally/blob/main/README.ja.md) · [简体中文](https://github.com/ProductTally/ProductTally/blob/main/README.zh.md)
+
+**Descubre productos útiles. Ayuda a que se conozcan.**
 
 **Descubre productos útiles. Ayuda a que se conozcan.**
 
