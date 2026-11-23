@@ -6,7 +6,11 @@
 
 [English](https://github.com/ProductTally) · [简体中文](https://github.com/ProductTally/ProductTally/blob/main/README.zh.md) · [Español](https://github.com/ProductTally/ProductTally/blob/main/README.es.md) · **日本語**
 
-ProductTally は、Evan が編集するクリエイターと小規模チーム向けの独立した製品メディアです。公式情報に基づき、SaaSレビュー、デジタル製品紹介、ソフトウェア実用ガイドを掲載します。
+**役立つ製品を見つけ、製品の価値を届ける。**
+
+ProductTallyは、Evanが編集するクリエイターと小規模チーム向けの独立した製品メディアです。出典のあるレビュー、実用ガイド、SaaSニュースを公開し、多言語コンテンツ、SEO/GEOレポート、マーケティング制作で製品提供者を支援します。
+
+[SaaSニュース](https://producttally.com/ja/news/)
 
 ## サイトを見る
 
@@ -17,7 +21,7 @@ ProductTally は、Evan が編集するクリエイターと小規模チーム�
 
 - **製品レビューのご依頼。** **1 製品につき 99 米ドルの一括払い**で、製品の調査、詳細ページ、実践ガイド 1 本をサイトの 4 言語で提供します。製品の URL と取り上げてほしい利用場面をお送りください。Evan が内容を確認し、PayPal の支払いリンクをメールでお送りします。依頼を受けたレビューにはその旨を明記し、結論は ProductTally が独自に判断します。
 - **[1ページのSEO・GEO改善レポート](https://producttally.com/ja/pricing/#seo-geo-audit)。** 製品詳細ページまたはECの商品ページ1件につき66米ドルです。URLの確認から3日以内にメールで納品し、お支払いは受け取り後です。
-- **[Web制作・コンテンツ制作](https://producttally.com/ja/pricing/#custom-service)。** HTMLページやセクション、製品画像、ページの原稿について、メールでお見積もりをご依頼いただけます。
+- **[Web制作・コンテンツ制作](https://producttally.com/ja/pricing/#custom-service)。** マーケティング用ランディングページ、製品画像、販促文、計算機や生成ツールなどのオンラインツールを制作します。範囲・見積もり・納期はメールで確認します。
 - **製品のご提案や情報の訂正。** 製品の URL と、想定する利用者や訂正したい箇所を Evan までメールでお知らせください。
 
 すべてのサービスのお支払いにはPayPalをご利用ください。
