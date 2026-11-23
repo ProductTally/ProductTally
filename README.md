@@ -8,8 +8,6 @@
 
 **Discover useful products. Help good products get seen.**
 
-**Discover useful products. Help good products get seen.**
-
 ProductTally is an independent product journal edited by Evan for creators and small teams. We publish sourced reviews, practical guides and SaaS news, and support product makers with multilingual content, SEO/GEO reports and marketing production.
 
 [SaaS news](https://producttally.com/news/)
