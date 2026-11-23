@@ -4,7 +4,7 @@
 
 [ProductTally を見る](https://producttally.com/ja/) · [レビューサービスと料金](https://producttally.com/ja/pricing/) · [ProductTally Support に連絡する](mailto:support@producttally.com)
 
-[English](https://github.com/ProductTally) · [简体中文](https://github.com/ProductTally/ProductTally/blob/main/README.zh.md) · [Español](https://github.com/ProductTally/ProductTally/blob/main/README.es.md) · **日本語**
+[English](https://github.com/ProductTally) · [Español](https://github.com/ProductTally/ProductTally/blob/main/README.es.md) · **日本語** · [简体中文](https://github.com/ProductTally/ProductTally/blob/main/README.zh.md)
 
 **役立つ製品を見つけ、製品の価値を届ける。**
 
