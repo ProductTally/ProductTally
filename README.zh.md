@@ -4,7 +4,9 @@
 
 [访问 ProductTally](https://producttally.com/zh/) · [增长服务与定价](https://producttally.com/zh/pricing/) · [联系 ProductTally Support](mailto:support@producttally.com)
 
-[English](https://github.com/ProductTally) · **简体中文** · [Español](https://github.com/ProductTally/ProductTally/blob/main/README.es.md) · [日本語](https://github.com/ProductTally/ProductTally/blob/main/README.ja.md)
+[English](https://github.com/ProductTally) · [Español](https://github.com/ProductTally/ProductTally/blob/main/README.es.md) · [日本語](https://github.com/ProductTally/ProductTally/blob/main/README.ja.md) · **简体中文**
+
+**发现值得用的产品，帮助好产品被看见。**
 
 **发现值得用的产品，帮助好产品被看见。**
 
