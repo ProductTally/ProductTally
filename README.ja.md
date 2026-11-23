@@ -2,7 +2,7 @@
 
 [![ProductTally](https://raw.githubusercontent.com/ProductTally/ProductTally/main/assets/producttally-banner.jpg)](https://producttally.com/)
 
-[ProductTally を見る](https://producttally.com/ja/) · [レビューサービスと料金](https://producttally.com/ja/pricing/) · [Evan にメールする](mailto:support@producttally.com)
+[ProductTally を見る](https://producttally.com/ja/) · [レビューサービスと料金](https://producttally.com/ja/pricing/) · [ProductTally Support に連絡する](mailto:support@producttally.com)
 
 [English](https://github.com/ProductTally) · [简体中文](https://github.com/ProductTally/ProductTally/blob/main/README.zh.md) · [Español](https://github.com/ProductTally/ProductTally/blob/main/README.es.md) · **日本語**
 
@@ -15,7 +15,11 @@ ProductTally は、Evan が編集するクリエイターと小規模チーム�
 
 ## ご提案・レビューのご依頼
 
-- **製品のご提案や情報の訂正。** 製品の URL と、想定する利用者や訂正したい箇所を Evan までメールでお知らせください。
 - **製品レビューのご依頼。** **1 製品につき 99 米ドルの一括払い**で、製品の調査、詳細ページ、実践ガイド 1 本をサイトの 4 言語で提供します。製品の URL と取り上げてほしい利用場面をお送りください。Evan が内容を確認し、PayPal の支払いリンクをメールでお送りします。依頼を受けたレビューにはその旨を明記し、結論は ProductTally が独自に判断します。
+- **[1ページのSEO・GEO改善レポート](https://producttally.com/ja/pricing/#seo-geo-audit)。** 製品詳細ページまたはECの商品ページ1件につき66米ドルです。URLの確認から3日以内にメールで納品し、お支払いは受け取り後です。
+- **[Web制作・コンテンツ制作](https://producttally.com/ja/pricing/#custom-service)。** HTMLページやセクション、製品画像、ページの原稿について、メールでお見積もりをご依頼いただけます。
+- **製品のご提案や情報の訂正。** 製品の URL と、想定する利用者や訂正したい箇所を Evan までメールでお知らせください。
+
+すべてのサービスのお支払いにはPayPalをご利用ください。
 
 依頼による記事制作はメールで合意した編集業務を対象とします。検索への登録、順位、アクセス数、売上、好意的な評価は保証しません。 [免責事項](https://producttally.com/ja/disclaimer/).

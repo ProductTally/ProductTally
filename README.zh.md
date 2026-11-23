@@ -2,7 +2,7 @@
 
 [![ProductTally](https://raw.githubusercontent.com/ProductTally/ProductTally/main/assets/producttally-banner.jpg)](https://producttally.com/)
 
-[访问 ProductTally](https://producttally.com/zh/) · [评测服务与定价](https://producttally.com/zh/pricing/) · [给 Evan 发邮件](mailto:support@producttally.com)
+[访问 ProductTally](https://producttally.com/zh/) · [评测服务与定价](https://producttally.com/zh/pricing/) · [联系 ProductTally Support](mailto:support@producttally.com)
 
 [English](https://github.com/ProductTally) · **简体中文** · [Español](https://github.com/ProductTally/ProductTally/blob/main/README.es.md) · [日本語](https://github.com/ProductTally/ProductTally/blob/main/README.ja.md)
 
@@ -15,7 +15,11 @@ ProductTally 是由 Evan 编辑、面向创作者和小团队的独立产品刊�
 
 ## 合作方式
 
-- **推荐产品或提交勘误。** 给 Evan 发邮件，附上产品网址，并简要说明产品适合谁，或哪处信息需要更新。
 - **委托产品评测。** 每款产品一次性收费 **99 美元**，包含产品调研、产品详情页和一篇实用指南，内容提供四种语言版本。请通过邮件发送产品网址和希望覆盖的使用场景。Evan 确认范围后会通过邮件发送 PayPal 付款链接。ProductTally 会标明委托评测，并独立决定评测结论。
+- **[单页 SEO / GEO 优化报告](https://producttally.com/zh/pricing/#seo-geo-audit)。** 每个产品详情页或电商商品页 US$66。确认网址后 3 天内通过邮件交付报告，收到后再付款。
+- **[人工定制服务](https://producttally.com/zh/pricing/#custom-service)。** 提供 HTML 页面或区块、产品图片和页面文案，通过邮件沟通需求并报价。
+- **推荐产品或提交勘误。** 给 Evan 发邮件，附上产品网址，并简要说明产品适合谁，或哪处信息需要更新。
+
+所有服务目前仅支持 PayPal。
 
 内容服务以邮件确认的编辑交付为准，不承诺搜索收录、排名、流量、销量或正面评价。 [免责声明](https://producttally.com/zh/disclaimer/).
