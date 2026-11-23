@@ -8,8 +8,6 @@
 
 **Descubre productos útiles. Ayuda a que se conozcan.**
 
-**Descubre productos útiles. Ayuda a que se conozcan.**
-
 ProductTally es una publicación independiente editada por Evan para creadores y equipos pequeños. Publicamos reseñas documentadas, guías prácticas y noticias SaaS, y apoyamos a los creadores de productos con contenido multilingüe, informes SEO/GEO y producción de marketing.
 
 [Noticias SaaS](https://producttally.com/es/news/)
