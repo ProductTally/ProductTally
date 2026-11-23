@@ -4,7 +4,9 @@
 
 [Visit ProductTally](https://producttally.com/) · [Growth services and pricing](https://producttally.com/pricing/) · [Contact ProductTally Support](mailto:support@producttally.com)
 
-**English** · [简体中文](https://github.com/ProductTally/ProductTally/blob/main/README.zh.md) · [Español](https://github.com/ProductTally/ProductTally/blob/main/README.es.md) · [日本語](https://github.com/ProductTally/ProductTally/blob/main/README.ja.md)
+**English** · [Español](https://github.com/ProductTally/ProductTally/blob/main/README.es.md) · [日本語](https://github.com/ProductTally/ProductTally/blob/main/README.ja.md) · [简体中文](https://github.com/ProductTally/ProductTally/blob/main/README.zh.md)
+
+**Discover useful products. Help good products get seen.**
 
 **Discover useful products. Help good products get seen.**
 
